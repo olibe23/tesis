@@ -2,23 +2,23 @@
 # Script completo - Modelos Multinivel
 # =====================================
 
-# 📦 Cargar librerías
+#cargo librerias
 library(lme4)
 library(dplyr)
 library(readxl)
 library(modelsummary)
 
-# 📂 Cargar base
+#Cargo base
 base <- read_excel("~/Library/Mobile Documents/com~apple~CloudDocs/Facu/Tesis/base_final.xlsx")
 
-# 🧹 Preparación general
+# limpieza (acá puse 0 en las variables NA de protestas, entiendo que esto no está bien)
 base <- base %>%
   mutate(
     provincia = as.factor(provincia),
     año = as.numeric(año),
     log_cupos = log(cupos + 1),
     protestas = coalesce(protestas_acled, protestas_pemps),
-    protestas = ifelse(is.na(protestas), 0, protestas)
+    #protestas = ifelse(is.na(protestas), 0, protestas)
   ) %>%
   select(-protestas_acled, -protestas_pemps, -senadores)
 
@@ -40,7 +40,7 @@ modelo_log2 <- lmer(
   data = base
 )
 
-# Modelo 3: sin elecciones
+# Modelo 3: sin protestas
 modelo_log3 <- lmer(
   log_cupos ~ pred_nbi_mice + alineamiento + diputados + elecciones +
     poblacion_proyectada + (1 | provincia) + (1 | año),
@@ -75,7 +75,7 @@ modelo_log6 <- lmer(
 )
 
 # ======================
-# 📊 TABLA COMPARATIVA
+# TABLA COMPARATIVA
 # ======================
 
 modelsummary(
