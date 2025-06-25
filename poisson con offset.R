@@ -1,4 +1,5 @@
-# Cargar paquetes necesarios
+# esto me lo sugirió Chatgpt
+#Cargar paquetes necesarios
 library(readxl)
 library(dplyr)
 library(stargazer)
