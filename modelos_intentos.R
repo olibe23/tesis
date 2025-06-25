@@ -20,7 +20,7 @@ base <- base %>%
   mutate(provincia = as.factor(provincia),
          año = as.numeric(año)) 
 
-base <- base %>%
+#base <- base %>%
   mutate(across(starts_with("protestas"), ~ na_if(., 0)))
 
 base <- base %>%
