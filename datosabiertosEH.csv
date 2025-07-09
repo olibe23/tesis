@@ -1,0 +1,462 @@
+periodo,cod_provincia,provincia,cod_depto,departamento,titulares
+2013-12-31,06,Buenos Aires,06134,Cañuelas,357
+2013-12-31,06,Buenos Aires,06245,Ensenada,407
+2013-12-31,06,Buenos Aires,06091,Berazategui,1922
+2013-12-31,06,Buenos Aires,06035,Avellaneda,1238
+2013-12-31,06,Buenos Aires,06028,Almirante Brown,1925
+2013-12-31,06,Buenos Aires,06252,Escobar,863
+2013-12-31,06,Buenos Aires,06098,Berisso,796
+2013-12-31,06,Buenos Aires,06260,Esteban Echeverría,1210
+2013-12-31,06,Buenos Aires,06357,General Pueyrredón,1
+2013-12-31,06,Buenos Aires,06805,Tigre,1081
+2013-12-31,06,Buenos Aires,06515,Malvinas Argentinas,1245
+2013-12-31,06,Buenos Aires,06126,Campana,202
+2013-12-31,06,Buenos Aires,06274,Florencio Varela,3038
+2013-12-31,06,Buenos Aires,06364,General Rodríguez,672
+2013-12-31,06,Buenos Aires,06568,Morón,774
+2013-12-31,06,Buenos Aires,06270,Ezeiza,777
+2013-12-31,06,Buenos Aires,06490,Lomas de Zamora,2691
+2013-12-31,06,Buenos Aires,06882,Zárate,331
+2013-12-31,06,Buenos Aires,06658,Quilmes,2394
+2013-12-31,06,Buenos Aires,06410,Ituzaingó,547
+2013-12-31,06,Buenos Aires,06371,General San Martín,1746
+2013-12-31,06,Buenos Aires,06408,Hurlingham,713
+2013-12-31,06,Buenos Aires,06329,General Las Heras,86
+2013-12-31,06,Buenos Aires,06525,Marcos Paz,456
+2013-12-31,06,Buenos Aires,06434,Lanús,1550
+2013-12-31,06,Buenos Aires,06840,Tres de Febrero,813
+2013-12-31,06,Buenos Aires,06532,Mercedes,167
+2013-12-31,06,Buenos Aires,06539,Merlo,1458
+2013-12-31,06,Buenos Aires,06441,La Plata,1596
+2013-12-31,06,Buenos Aires,06648,Presidente Perón,943
+2013-12-31,06,Buenos Aires,06412,José C. Paz,2304
+2013-12-31,06,Buenos Aires,06497,Luján,310
+2013-12-31,06,Buenos Aires,06749,San Fernando,480
+2013-12-31,06,Buenos Aires,06427,La Matanza,6230
+2013-12-31,06,Buenos Aires,06778,San Vicente,736
+2013-12-31,06,Buenos Aires,06560,Moreno,3174
+2013-12-31,06,Buenos Aires,06760,San Miguel,1490
+2013-12-31,06,Buenos Aires,06638,Pilar,817
+2013-12-31,10,Catamarca,10049,Capital,1016
+2013-12-31,22,Chaco,22077,Libertad,19
+2013-12-31,22,Chaco,22140,San Fernando,2427
+2013-12-31,02,Ciudad de Buenos Aires,02000,"Comuna 1,Comuna 10,Comuna 11,Comuna 12,Comuna 13,Comuna 14,Comuna 15,Comuna 2,Comuna 3,Comuna 4,Comuna 5,Comuna 6,Comuna 7,Comuna 8,Comuna 9",401
+2013-12-31,18,Corrientes,18021,Capital,3130
+2013-12-31,30,Entre Ríos,30015,Concordia,1
+2013-12-31,30,Entre Ríos,30098,Uruguay,1
+2013-12-31,30,Entre Ríos,30084,Paraná,1754
+2013-12-31,34,Formosa,34014,Formosa,1292
+2013-12-31,46,La Rioja,46014,Capital,1193
+2013-12-31,50,Mendoza,50007,Capital,646
+2013-12-31,50,Mendoza,50098,San Martín,761
+2013-12-31,54,Misiones,54042,Eldorado,597
+2013-12-31,54,Misiones,54028,Capital,1792
+2013-12-31,66,Salta,66028,Capital,4621
+2013-12-31,70,San Juan,70042,Chimbas,669
+2013-12-31,70,San Juan,70084,Rivadavia,203
+2013-12-31,70,San Juan,70077,Rawson,839
+2013-12-31,70,San Juan,70028,Capital,223
+2013-12-31,70,San Juan,70098,Santa Lucía,185
+2013-12-31,74,San Luis,74056,Juan Martín Pueyrredón,910
+2013-12-31,86,Santiago del Estero,86035,Banda,1
+2013-12-31,86,Santiago del Estero,86049,Capital,2710
+2013-12-31,90,Tucumán,90007,Burruyacú,1
+2013-12-31,90,Tucumán,90014,Cruz Alta,2601
+2013-12-31,90,Tucumán,90063,Lules,979
+2013-12-31,90,Tucumán,90105,Tafí Viejo,1905
+2013-12-31,90,Tucumán,90091,Simoca,1181
+2013-12-31,90,Tucumán,90084,Capital,7229
+2013-12-31,90,Tucumán,90098,Tafí del Valle,1
+2014-12-31,06,Buenos Aires,06028,Almirante Brown,2079
+2014-12-31,06,Buenos Aires,06274,Florencio Varela,3264
+2014-12-31,06,Buenos Aires,06364,General Rodríguez,670
+2014-12-31,06,Buenos Aires,06408,Hurlingham,717
+2014-12-31,06,Buenos Aires,06134,Cañuelas,352
+2014-12-31,06,Buenos Aires,06270,Ezeiza,785
+2014-12-31,06,Buenos Aires,06329,General Las Heras,85
+2014-12-31,06,Buenos Aires,06357,General Pueyrredón,1
+2014-12-31,06,Buenos Aires,06260,Esteban Echeverría,1215
+2014-12-31,06,Buenos Aires,06245,Ensenada,409
+2014-12-31,06,Buenos Aires,06412,José C. Paz,2365
+2014-12-31,06,Buenos Aires,06126,Campana,206
+2014-12-31,06,Buenos Aires,06252,Escobar,873
+2014-12-31,06,Buenos Aires,06371,General San Martín,1783
+2014-12-31,06,Buenos Aires,06035,Avellaneda,1348
+2014-12-31,06,Buenos Aires,06091,Berazategui,1922
+2014-12-31,06,Buenos Aires,06410,Ituzaingó,557
+2014-12-31,06,Buenos Aires,06098,Berisso,813
+2014-12-31,06,Buenos Aires,06427,La Matanza,6361
+2014-12-31,06,Buenos Aires,06515,Malvinas Argentinas,1265
+2014-12-31,06,Buenos Aires,06539,Merlo,1469
+2014-12-31,06,Buenos Aires,06805,Tigre,1089
+2014-12-31,06,Buenos Aires,06882,Zárate,336
+2014-12-31,06,Buenos Aires,06441,La Plata,1722
+2014-12-31,06,Buenos Aires,06749,San Fernando,484
+2014-12-31,06,Buenos Aires,06490,Lomas de Zamora,2857
+2014-12-31,06,Buenos Aires,06760,San Miguel,1607
+2014-12-31,06,Buenos Aires,06497,Luján,309
+2014-12-31,06,Buenos Aires,06778,San Vicente,750
+2014-12-31,06,Buenos Aires,06840,Tres de Febrero,830
+2014-12-31,06,Buenos Aires,06434,Lanús,1677
+2014-12-31,06,Buenos Aires,06525,Marcos Paz,455
+2014-12-31,06,Buenos Aires,06560,Moreno,3217
+2014-12-31,06,Buenos Aires,06568,Morón,779
+2014-12-31,06,Buenos Aires,06638,Pilar,825
+2014-12-31,06,Buenos Aires,06658,Quilmes,2444
+2014-12-31,06,Buenos Aires,06532,Mercedes,167
+2014-12-31,06,Buenos Aires,06648,Presidente Perón,955
+2014-12-31,10,Catamarca,10049,Capital,1018
+2014-12-31,22,Chaco,22077,Libertad,19
+2014-12-31,22,Chaco,22140,San Fernando,2432
+2014-12-31,02,Ciudad de Buenos Aires,02000,"Comuna 1,Comuna 10,Comuna 11,Comuna 12,Comuna 13,Comuna 14,Comuna 15,Comuna 2,Comuna 3,Comuna 4,Comuna 5,Comuna 6,Comuna 7,Comuna 8,Comuna 9",1249
+2014-12-31,18,Corrientes,18021,Capital,3138
+2014-12-31,30,Entre Ríos,30098,Uruguay,1
+2014-12-31,30,Entre Ríos,30015,Concordia,1
+2014-12-31,30,Entre Ríos,30084,Paraná,1768
+2014-12-31,34,Formosa,34014,Formosa,1318
+2014-12-31,46,La Rioja,46014,Capital,1183
+2014-12-31,50,Mendoza,50035,Junín,1
+2014-12-31,50,Mendoza,50007,Capital,645
+2014-12-31,50,Mendoza,50098,San Martín,763
+2014-12-31,54,Misiones,54028,Capital,1805
+2014-12-31,54,Misiones,54042,Eldorado,602
+2014-12-31,66,Salta,66028,Capital,4636
+2014-12-31,70,San Juan,70077,Rawson,844
+2014-12-31,70,San Juan,70042,Chimbas,669
+2014-12-31,70,San Juan,70028,Capital,226
+2014-12-31,70,San Juan,70098,Santa Lucía,190
+2014-12-31,70,San Juan,70084,Rivadavia,209
+2014-12-31,74,San Luis,74056,Juan Martín Pueyrredón,1051
+2014-12-31,86,Santiago del Estero,86049,Capital,2709
+2014-12-31,86,Santiago del Estero,86035,Banda,1
+2014-12-31,90,Tucumán,90014,Cruz Alta,2608
+2014-12-31,90,Tucumán,90091,Simoca,1183
+2014-12-31,90,Tucumán,90084,Capital,7285
+2014-12-31,90,Tucumán,90098,Tafí del Valle,1
+2014-12-31,90,Tucumán,90007,Burruyacú,1
+2014-12-31,90,Tucumán,90063,Lules,979
+2014-12-31,90,Tucumán,90105,Tafí Viejo,1906
+2015-12-31,06,Buenos Aires,06028,Almirante Brown,1942
+2015-12-31,06,Buenos Aires,06126,Campana,193
+2015-12-31,06,Buenos Aires,06091,Berazategui,1760
+2015-12-31,06,Buenos Aires,06098,Berisso,763
+2015-12-31,06,Buenos Aires,06420,La Costa,1
+2015-12-31,06,Buenos Aires,06648,Presidente Perón,881
+2015-12-31,06,Buenos Aires,06357,General Pueyrredón,2
+2015-12-31,06,Buenos Aires,06035,Avellaneda,1209
+2015-12-31,06,Buenos Aires,06134,Cañuelas,315
+2015-12-31,06,Buenos Aires,06270,Ezeiza,764
+2015-12-31,06,Buenos Aires,06525,Marcos Paz,415
+2015-12-31,06,Buenos Aires,06410,Ituzaingó,507
+2015-12-31,06,Buenos Aires,06568,Morón,742
+2015-12-31,06,Buenos Aires,06329,General Las Heras,77
+2015-12-31,06,Buenos Aires,06638,Pilar,683
+2015-12-31,06,Buenos Aires,06274,Florencio Varela,3190
+2015-12-31,06,Buenos Aires,06412,José C. Paz,2028
+2015-12-31,06,Buenos Aires,06371,General San Martín,1601
+2015-12-31,06,Buenos Aires,06427,La Matanza,5764
+2015-12-31,06,Buenos Aires,06490,Lomas de Zamora,3761
+2015-12-31,06,Buenos Aires,06560,Moreno,3007
+2015-12-31,06,Buenos Aires,06840,Tres de Febrero,758
+2015-12-31,06,Buenos Aires,06252,Escobar,762
+2015-12-31,06,Buenos Aires,06532,Mercedes,134
+2015-12-31,06,Buenos Aires,06245,Ensenada,349
+2015-12-31,06,Buenos Aires,06749,San Fernando,473
+2015-12-31,06,Buenos Aires,06364,General Rodríguez,554
+2015-12-31,06,Buenos Aires,06760,San Miguel,1434
+2015-12-31,06,Buenos Aires,06260,Esteban Echeverría,1167
+2015-12-31,06,Buenos Aires,06408,Hurlingham,628
+2015-12-31,06,Buenos Aires,06434,Lanús,1633
+2015-12-31,06,Buenos Aires,06441,La Plata,1679
+2015-12-31,06,Buenos Aires,06515,Malvinas Argentinas,1069
+2015-12-31,06,Buenos Aires,06497,Luján,244
+2015-12-31,06,Buenos Aires,06778,San Vicente,708
+2015-12-31,06,Buenos Aires,06805,Tigre,949
+2015-12-31,06,Buenos Aires,06882,Zárate,306
+2015-12-31,06,Buenos Aires,06539,Merlo,1297
+2015-12-31,06,Buenos Aires,06658,Quilmes,2239
+2015-12-31,10,Catamarca,10049,Capital,978
+2015-12-31,22,Chaco,22077,Libertad,19
+2015-12-31,22,Chaco,22140,San Fernando,2354
+2015-12-31,02,Ciudad de Buenos Aires,02000,"Comuna 1,Comuna 10,Comuna 11,Comuna 12,Comuna 13,Comuna 14,Comuna 15,Comuna 2,Comuna 3,Comuna 4,Comuna 5,Comuna 6,Comuna 7,Comuna 8,Comuna 9",1377
+2015-12-31,18,Corrientes,18021,Capital,3096
+2015-12-31,30,Entre Ríos,30015,Concordia,2
+2015-12-31,30,Entre Ríos,30098,Uruguay,1
+2015-12-31,30,Entre Ríos,30084,Paraná,1724
+2015-12-31,34,Formosa,34014,Formosa,1266
+2015-12-31,46,La Rioja,46014,Capital,1148
+2015-12-31,50,Mendoza,50035,Junín,1
+2015-12-31,50,Mendoza,50098,San Martín,720
+2015-12-31,50,Mendoza,50007,Capital,562
+2015-12-31,54,Misiones,54042,Eldorado,580
+2015-12-31,54,Misiones,54028,Capital,1719
+2015-12-31,66,Salta,66028,Capital,4580
+2015-12-31,70,San Juan,70077,Rawson,802
+2015-12-31,70,San Juan,70042,Chimbas,650
+2015-12-31,70,San Juan,70084,Rivadavia,212
+2015-12-31,70,San Juan,70098,Santa Lucía,191
+2015-12-31,70,San Juan,70028,Capital,204
+2015-12-31,74,San Luis,74056,Juan Martín Pueyrredón,1007
+2015-12-31,86,Santiago del Estero,86049,Capital,2630
+2015-12-31,90,Tucumán,90014,Cruz Alta,2531
+2015-12-31,90,Tucumán,90084,Capital,6961
+2015-12-31,90,Tucumán,90063,Lules,940
+2015-12-31,90,Tucumán,90105,Tafí Viejo,1853
+2015-12-31,90,Tucumán,90091,Simoca,1140
+2016-12-31,06,Buenos Aires,06245,Ensenada,340
+2016-12-31,06,Buenos Aires,06091,Berazategui,1727
+2016-12-31,06,Buenos Aires,06098,Berisso,743
+2016-12-31,06,Buenos Aires,06329,General Las Heras,75
+2016-12-31,06,Buenos Aires,06260,Esteban Echeverría,1162
+2016-12-31,06,Buenos Aires,06035,Avellaneda,1084
+2016-12-31,06,Buenos Aires,06274,Florencio Varela,2940
+2016-12-31,06,Buenos Aires,06028,Almirante Brown,1796
+2016-12-31,06,Buenos Aires,06408,Hurlingham,607
+2016-12-31,06,Buenos Aires,06410,Ituzaingó,489
+2016-12-31,06,Buenos Aires,06364,General Rodríguez,517
+2016-12-31,06,Buenos Aires,06270,Ezeiza,741
+2016-12-31,06,Buenos Aires,06412,José C. Paz,1910
+2016-12-31,06,Buenos Aires,06434,Lanús,1487
+2016-12-31,06,Buenos Aires,06126,Campana,190
+2016-12-31,06,Buenos Aires,06134,Cañuelas,286
+2016-12-31,06,Buenos Aires,06252,Escobar,745
+2016-12-31,06,Buenos Aires,06371,General San Martín,1544
+2016-12-31,06,Buenos Aires,06749,San Fernando,468
+2016-12-31,06,Buenos Aires,06760,San Miguel,1314
+2016-12-31,06,Buenos Aires,06882,Zárate,306
+2016-12-31,06,Buenos Aires,06427,La Matanza,5554
+2016-12-31,06,Buenos Aires,06532,Mercedes,134
+2016-12-31,06,Buenos Aires,06539,Merlo,1281
+2016-12-31,06,Buenos Aires,06497,Luján,232
+2016-12-31,06,Buenos Aires,06638,Pilar,675
+2016-12-31,06,Buenos Aires,06515,Malvinas Argentinas,1039
+2016-12-31,06,Buenos Aires,06658,Quilmes,2033
+2016-12-31,06,Buenos Aires,06778,San Vicente,667
+2016-12-31,06,Buenos Aires,06805,Tigre,934
+2016-12-31,06,Buenos Aires,06648,Presidente Perón,845
+2016-12-31,06,Buenos Aires,06525,Marcos Paz,405
+2016-12-31,06,Buenos Aires,06441,La Plata,1592
+2016-12-31,06,Buenos Aires,06560,Moreno,2919
+2016-12-31,06,Buenos Aires,06490,Lomas de Zamora,3560
+2016-12-31,06,Buenos Aires,06568,Morón,728
+2016-12-31,06,Buenos Aires,06840,Tres de Febrero,722
+2016-12-31,10,Catamarca,10049,Capital,957
+2016-12-31,22,Chaco,22077,Libertad,19
+2016-12-31,22,Chaco,22140,San Fernando,2306
+2016-12-31,02,Ciudad de Buenos Aires,02000,"Comuna 1,Comuna 10,Comuna 11,Comuna 12,Comuna 13,Comuna 14,Comuna 15,Comuna 2,Comuna 3,Comuna 4,Comuna 5,Comuna 6,Comuna 7,Comuna 8,Comuna 9",1251
+2016-12-31,18,Corrientes,18021,Capital,2959
+2016-12-31,30,Entre Ríos,30098,Uruguay,1
+2016-12-31,30,Entre Ríos,30015,Concordia,1
+2016-12-31,30,Entre Ríos,30084,Paraná,1673
+2016-12-31,34,Formosa,34014,Formosa,1222
+2016-12-31,46,La Rioja,46014,Capital,1123
+2016-12-31,50,Mendoza,50098,San Martín,700
+2016-12-31,50,Mendoza,50007,Capital,506
+2016-12-31,54,Misiones,54028,Capital,1633
+2016-12-31,54,Misiones,54042,Eldorado,570
+2016-12-31,66,Salta,66028,Capital,4382
+2016-12-31,70,San Juan,70042,Chimbas,637
+2016-12-31,70,San Juan,70084,Rivadavia,211
+2016-12-31,70,San Juan,70028,Capital,199
+2016-12-31,70,San Juan,70098,Santa Lucía,184
+2016-12-31,70,San Juan,70077,Rawson,784
+2016-12-31,74,San Luis,74056,Juan Martín Pueyrredón,948
+2016-12-31,86,Santiago del Estero,86049,Capital,2578
+2016-12-31,90,Tucumán,90014,Cruz Alta,2470
+2016-12-31,90,Tucumán,90063,Lules,924
+2016-12-31,90,Tucumán,90105,Tafí Viejo,1826
+2016-12-31,90,Tucumán,90091,Simoca,1122
+2016-12-31,90,Tucumán,90084,Capital,6818
+2017-12-31,06,Buenos Aires,06035,Avellaneda,1119
+2017-12-31,06,Buenos Aires,06028,Almirante Brown,1814
+2017-12-31,06,Buenos Aires,06270,Ezeiza,713
+2017-12-31,06,Buenos Aires,06560,Moreno,2894
+2017-12-31,06,Buenos Aires,06568,Morón,719
+2017-12-31,06,Buenos Aires,06357,General Pueyrredón,2
+2017-12-31,06,Buenos Aires,06260,Esteban Echeverría,1172
+2017-12-31,06,Buenos Aires,06126,Campana,193
+2017-12-31,06,Buenos Aires,06091,Berazategui,1724
+2017-12-31,06,Buenos Aires,06134,Cañuelas,273
+2017-12-31,06,Buenos Aires,06525,Marcos Paz,397
+2017-12-31,06,Buenos Aires,06274,Florencio Varela,2992
+2017-12-31,06,Buenos Aires,06098,Berisso,722
+2017-12-31,06,Buenos Aires,06539,Merlo,1258
+2017-12-31,06,Buenos Aires,06252,Escobar,730
+2017-12-31,06,Buenos Aires,06371,General San Martín,1529
+2017-12-31,06,Buenos Aires,06410,Ituzaingó,491
+2017-12-31,06,Buenos Aires,06490,Lomas de Zamora,3499
+2017-12-31,06,Buenos Aires,06840,Tres de Febrero,713
+2017-12-31,06,Buenos Aires,06861,Vicente López,5
+2017-12-31,06,Buenos Aires,06875,Villarino,1
+2017-12-31,06,Buenos Aires,06882,Zárate,312
+2017-12-31,06,Buenos Aires,06408,Hurlingham,605
+2017-12-31,06,Buenos Aires,06412,José C. Paz,1885
+2017-12-31,06,Buenos Aires,06434,Lanús,1477
+2017-12-31,06,Buenos Aires,06497,Luján,308
+2017-12-31,06,Buenos Aires,06515,Malvinas Argentinas,1009
+2017-12-31,06,Buenos Aires,06644,Pinamar,19
+2017-12-31,06,Buenos Aires,06778,San Vicente,670
+2017-12-31,06,Buenos Aires,06805,Tigre,985
+2017-12-31,06,Buenos Aires,06301,General Belgrano,1
+2017-12-31,06,Buenos Aires,06648,Presidente Perón,849
+2017-12-31,06,Buenos Aires,06427,La Matanza,5572
+2017-12-31,06,Buenos Aires,06441,La Plata,1647
+2017-12-31,06,Buenos Aires,06658,Quilmes,2036
+2017-12-31,06,Buenos Aires,06056,Bahía Blanca,246
+2017-12-31,06,Buenos Aires,06364,General Rodríguez,565
+2017-12-31,06,Buenos Aires,06547,Monte,1
+2017-12-31,06,Buenos Aires,06638,Pilar,680
+2017-12-31,06,Buenos Aires,06756,San Isidro,4
+2017-12-31,06,Buenos Aires,06245,Ensenada,339
+2017-12-31,06,Buenos Aires,06329,General Las Heras,72
+2017-12-31,06,Buenos Aires,06532,Mercedes,154
+2017-12-31,06,Buenos Aires,06749,San Fernando,490
+2017-12-31,06,Buenos Aires,06760,San Miguel,1335
+2017-12-31,10,Catamarca,10049,Capital,987
+2017-12-31,22,Chaco,22063,General Güemes,2
+2017-12-31,22,Chaco,22021,Comandante Fernández,1
+2017-12-31,22,Chaco,22028,Chacabuco,1
+2017-12-31,22,Chaco,22140,San Fernando,2292
+2017-12-31,22,Chaco,22077,Libertad,20
+2017-12-31,02,Ciudad de Buenos Aires,02000,"Comuna 1,Comuna 10,Comuna 11,Comuna 12,Comuna 13,Comuna 14,Comuna 15,Comuna 2,Comuna 3,Comuna 4,Comuna 5,Comuna 6,Comuna 7,Comuna 8,Comuna 9",1357
+2017-12-31,18,Corrientes,18021,Capital,2979
+2017-12-31,18,Corrientes,18063,General Paz,2
+2017-12-31,18,Corrientes,18133,San Cosme,1
+2017-12-31,30,Entre Ríos,30070,La Paz,3
+2017-12-31,30,Entre Ríos,30015,Concordia,2
+2017-12-31,30,Entre Ríos,30084,Paraná,1643
+2017-12-31,34,Formosa,34014,Formosa,1229
+2017-12-31,34,Formosa,34028,Matacos,1
+2017-12-31,46,La Rioja,46014,Capital,1118
+2017-12-31,50,Mendoza,50063,Luján de Cuyo,1
+2017-12-31,50,Mendoza,50021,Godoy Cruz,3
+2017-12-31,50,Mendoza,50035,Junín,1
+2017-12-31,50,Mendoza,50007,Capital,517
+2017-12-31,50,Mendoza,50098,San Martín,689
+2017-12-31,50,Mendoza,50028,Guaymallén,4
+2017-12-31,50,Mendoza,50049,Las Heras,2
+2017-12-31,50,Mendoza,50084,Rivadavia,1
+2017-12-31,50,Mendoza,50126,Tupungato,2
+2017-12-31,54,Misiones,54028,Capital,1615
+2017-12-31,54,Misiones,54007,Apóstoles,1
+2017-12-31,54,Misiones,54042,Eldorado,557
+2017-12-31,66,Salta,66028,Capital,4373
+2017-12-31,66,Salta,66035,Cerrillos,1
+2017-12-31,70,San Juan,70077,Rawson,779
+2017-12-31,70,San Juan,70028,Capital,206
+2017-12-31,70,San Juan,70042,Chimbas,646
+2017-12-31,70,San Juan,70098,Santa Lucía,185
+2017-12-31,70,San Juan,70105,Sarmiento,1
+2017-12-31,70,San Juan,70070,Pocito,1
+2017-12-31,70,San Juan,70084,Rivadavia,209
+2017-12-31,74,San Luis,74056,Juan Martín Pueyrredón,970
+2017-12-31,86,Santiago del Estero,86049,Capital,2564
+2017-12-31,86,Santiago del Estero,86035,Banda,8
+2017-12-31,94,Tierra del Fuego,94007,Río Grande,69
+2017-12-31,94,Tierra del Fuego,94014,Ushuaia,6
+2017-12-31,90,Tucumán,90007,Burruyacú,1
+2017-12-31,90,Tucumán,90014,Cruz Alta,2460
+2017-12-31,90,Tucumán,90063,Lules,922
+2017-12-31,90,Tucumán,90098,Tafí del Valle,1
+2017-12-31,90,Tucumán,90091,Simoca,1121
+2017-12-31,90,Tucumán,90105,Tafí Viejo,1812
+2017-12-31,90,Tucumán,90084,Capital,6820
+2018-02-29,06,Buenos Aires,06035,Avellaneda,1078
+2018-02-29,06,Buenos Aires,06028,Almirante Brown,1771
+2018-02-29,06,Buenos Aires,06091,Berazategui,1693
+2018-02-29,06,Buenos Aires,06252,Escobar,704
+2018-02-29,06,Buenos Aires,06260,Esteban Echeverría,1131
+2018-02-29,06,Buenos Aires,06056,Bahía Blanca,190
+2018-02-29,06,Buenos Aires,06245,Ensenada,332
+2018-02-29,06,Buenos Aires,06134,Cañuelas,264
+2018-02-29,06,Buenos Aires,06098,Berisso,706
+2018-02-29,06,Buenos Aires,06126,Campana,189
+2018-02-29,06,Buenos Aires,06270,Ezeiza,702
+2018-02-29,06,Buenos Aires,06420,La Costa,1
+2018-02-29,06,Buenos Aires,06274,Florencio Varela,2942
+2018-02-29,06,Buenos Aires,06357,General Pueyrredón,1
+2018-02-29,06,Buenos Aires,06364,General Rodríguez,553
+2018-02-29,06,Buenos Aires,06329,General Las Heras,69
+2018-02-29,06,Buenos Aires,06410,Ituzaingó,477
+2018-02-29,06,Buenos Aires,06408,Hurlingham,602
+2018-02-29,06,Buenos Aires,06412,José C. Paz,1845
+2018-02-29,06,Buenos Aires,06644,Pinamar,18
+2018-02-29,06,Buenos Aires,06805,Tigre,961
+2018-02-29,06,Buenos Aires,06882,Zárate,306
+2018-02-29,06,Buenos Aires,06515,Malvinas Argentinas,984
+2018-02-29,06,Buenos Aires,06568,Morón,711
+2018-02-29,06,Buenos Aires,06648,Presidente Perón,832
+2018-02-29,06,Buenos Aires,06875,Villarino,1
+2018-02-29,06,Buenos Aires,06371,General San Martín,1476
+2018-02-29,06,Buenos Aires,06427,La Matanza,5443
+2018-02-29,06,Buenos Aires,06441,La Plata,1589
+2018-02-29,06,Buenos Aires,06490,Lomas de Zamora,3397
+2018-02-29,06,Buenos Aires,06547,Monte,1
+2018-02-29,06,Buenos Aires,06840,Tres de Febrero,697
+2018-02-29,06,Buenos Aires,06434,Lanús,1438
+2018-02-29,06,Buenos Aires,06497,Luján,310
+2018-02-29,06,Buenos Aires,06630,Pila,1
+2018-02-29,06,Buenos Aires,06749,San Fernando,470
+2018-02-29,06,Buenos Aires,06760,San Miguel,1306
+2018-02-29,06,Buenos Aires,06778,San Vicente,655
+2018-02-29,06,Buenos Aires,06861,Vicente López,6
+2018-02-29,06,Buenos Aires,06525,Marcos Paz,392
+2018-02-29,06,Buenos Aires,06560,Moreno,2846
+2018-02-29,06,Buenos Aires,06532,Mercedes,152
+2018-02-29,06,Buenos Aires,06539,Merlo,1236
+2018-02-29,06,Buenos Aires,06756,San Isidro,4
+2018-02-29,06,Buenos Aires,06638,Pilar,657
+2018-02-29,06,Buenos Aires,06658,Quilmes,1982
+2018-02-29,10,Catamarca,10049,Capital,966
+2018-02-29,22,Chaco,22021,Comandante Fernández,1
+2018-02-29,22,Chaco,22077,Libertad,20
+2018-02-29,22,Chaco,22084,Libertador General San Martín,1
+2018-02-29,22,Chaco,22063,General Güemes,2
+2018-02-29,22,Chaco,22028,Chacabuco,1
+2018-02-29,22,Chaco,22140,San Fernando,2259
+2018-02-29,02,Ciudad de Buenos Aires,02000,"Comuna 1,Comuna 10,Comuna 11,Comuna 12,Comuna 13,Comuna 14,Comuna 15,Comuna 2,Comuna 3,Comuna 4,Comuna 5,Comuna 6,Comuna 7,Comuna 8,Comuna 9",1293
+2018-02-29,18,Corrientes,18021,Capital,2936
+2018-02-29,18,Corrientes,18063,General Paz,2
+2018-02-29,18,Corrientes,18133,San Cosme,1
+2018-02-29,30,Entre Ríos,30070,La Paz,1
+2018-02-29,30,Entre Ríos,30015,Concordia,2
+2018-02-29,30,Entre Ríos,30084,Paraná,1599
+2018-02-29,34,Formosa,34028,Matacos,1
+2018-02-29,34,Formosa,34014,Formosa,1214
+2018-02-29,46,La Rioja,46014,Capital,1104
+2018-02-29,50,Mendoza,50098,San Martín,678
+2018-02-29,50,Mendoza,50021,Godoy Cruz,3
+2018-02-29,50,Mendoza,50063,Luján de Cuyo,1
+2018-02-29,50,Mendoza,50007,Capital,17
+2018-02-29,50,Mendoza,50035,Junín,1
+2018-02-29,50,Mendoza,50028,Guaymallén,5
+2018-02-29,50,Mendoza,50084,Rivadavia,1
+2018-02-29,50,Mendoza,50049,Las Heras,3
+2018-02-29,50,Mendoza,50126,Tupungato,2
+2018-02-29,54,Misiones,54007,Apóstoles,1
+2018-02-29,54,Misiones,54028,Capital,1560
+2018-02-29,54,Misiones,54042,Eldorado,544
+2018-02-29,66,Salta,66035,Cerrillos,1
+2018-02-29,66,Salta,66028,Capital,4281
+2018-02-29,70,San Juan,70042,Chimbas,642
+2018-02-29,70,San Juan,70105,Sarmiento,1
+2018-02-29,70,San Juan,70028,Capital,199
+2018-02-29,70,San Juan,70084,Rivadavia,209
+2018-02-29,70,San Juan,70070,Pocito,1
+2018-02-29,70,San Juan,70098,Santa Lucía,180
+2018-02-29,70,San Juan,70077,Rawson,766
+2018-02-29,74,San Luis,74056,Juan Martín Pueyrredón,902
+2018-02-29,86,Santiago del Estero,86035,Banda,7
+2018-02-29,86,Santiago del Estero,86049,Capital,2516
+2018-02-29,94,Tierra del Fuego,94007,Río Grande,64
+2018-02-29,94,Tierra del Fuego,94014,Ushuaia,5
+2018-02-29,90,Tucumán,90021,Chicligasta,1
+2018-02-29,90,Tucumán,90056,Leales,5
+2018-02-29,90,Tucumán,90028,Famaillá,4
+2018-02-29,90,Tucumán,90063,Lules,919
+2018-02-29,90,Tucumán,90098,Tafí del Valle,1
+2018-02-29,90,Tucumán,90091,Simoca,1107
+2018-02-29,90,Tucumán,90084,Capital,6726
+2018-02-29,90,Tucumán,90007,Burruyacú,1
+2018-02-29,90,Tucumán,90014,Cruz Alta,2425
+2018-02-29,90,Tucumán,90105,Tafí Viejo,1785

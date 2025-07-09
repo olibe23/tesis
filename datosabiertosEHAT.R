@@ -2,8 +2,10 @@ library(readr)
 library(lubridate)
 library(dplyr)
 library(tidyr)
+library(readxl)
+library(writexl)
 
-datosAT <- read_csv("/Users/oliviaberisso/Downloads/datosabiertosAT.csv")
+datosAT <- read_csv("datosabiertosAT.csv")
 
 titulares_anuales <- datosAT %>%
   mutate(periodo = as.Date(periodo),
@@ -34,11 +36,26 @@ base_completa <- expand_grid(
   anio = anios
 )
 
-titulares_completo <- base_completa %>%
+ATEH<- base_completa %>%
   left_join(titulares_merged, by = c("provincia", "anio"))
 
-titulares_completo <- titulares_completo %>%
+ATEH <- ATEH %>%
   mutate(across(
     c(titulares_at, titulares_eh),
     ~replace_na(.x, 0)
   ))
+
+limpiar_provincias <- function(x) {
+  x %>%
+    tolower() %>%
+    trimws() %>%
+    iconv(from = "UTF-8", to = "ASCII//TRANSLIT") %>%  # quita tildes
+    gsub("[^a-z_ ]", "", .) %>%   
+    gsub(" ", "_", .)
+}
+
+ATEH <- ATEH %>%
+  mutate(provincia = limpiar_provincias(provincia))
+
+write_xlsx(ATEH, "ATEH.xlsx")
+
