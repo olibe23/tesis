@@ -1,3 +1,4 @@
+#potencial incorporación de una variable fiscal
 itpc <- read_excel("Recursos Tributarios de Origen Provincial (TOP).xlsx")
 
 itpc <- itpc %>%
