@@ -1,4 +1,6 @@
-# ===============================
+#CON ESTO TRABAJAMOS REUNION MARTES 
+
+#===============================
 # ANÁLISIS MULTINIVEL - LOG CUPOS
 # ===============================
 library(lme4)        
