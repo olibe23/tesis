@@ -153,14 +153,3 @@ tablamodelos <- modelsummary(
 
 gtsave(tablamodelos, "modelos_jerarquicos.png")   # o .pdf
 
-model_list3 <- list(
-  "Jerárquico base" = mod_base,
-  "Con protestas" = mod_protestas,
-  "Interacción E×P" = mod_inter_ep,
-  "Interacción E×Gob" = mod_inter_eg,
-  "Random slope por Gob" = mod_gob_random,
-  "Bayesiano" = mod_bayes
-)
-
-modelsummary(model_list, output = "modelos_comparados.html")
-
